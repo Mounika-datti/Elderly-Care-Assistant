@@ -123,10 +123,10 @@ graph TD
 ## Assets
 
 ### Project Banner
-![Cover Banner](file:///d:/adk-workspace/elderly-care-assistant/assets/cover_page_banner.png)
+![Cover Banner](file:///d:/adk-workspace/elderly-care-assistant/assets/cover_page_banner.jpeg)
 
 ### Multi-Agent Workflow Diagram
-![Workflow Diagram](file:///d:/adk-workspace/elderly-care-assistant/assets/architecture_diagram.png)
+![Workflow Diagram](file:///d:/adk-workspace/elderly-care-assistant/assets/architecture_diagram.jpeg)
 
 ---
 
